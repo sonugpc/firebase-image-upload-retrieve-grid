@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "99607600242",
+    "firebase_url": "https://bigtricks-169316.firebaseio.com",
+    "project_id": "bigtricks-169316",
+    "storage_bucket": "bigtricks-169316.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99607600242:android:cbe227c09459e6e5",
+        "android_client_info": {
+          "package_name": "big.in.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99607600242-ajm3vnr6c4gn4aoo3c43i9o9ed75lke8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "big.in.imageupload",
+            "certificate_hash": "033a6f5063ba650f6dee9d79b76027bd3a78b8a7"
+          }
+        },
+        {
+          "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZs4wf5FAOKO3opeDt4Jsm9Mrceat9vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99607600242:android:7ed1d8c9dfc089f4",
+        "android_client_info": {
+          "package_name": "calc.in.firebaseimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99607600242-vh3603dgb4b5r73vrf6b4kqc59rodtln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "calc.in.firebaseimage",
+            "certificate_hash": "033a6f5063ba650f6dee9d79b76027bd3a78b8a7"
+          }
+        },
+        {
+          "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZs4wf5FAOKO3opeDt4Jsm9Mrceat9vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99607600242:android:52c34e6c976bb6c4",
+        "android_client_info": {
+          "package_name": "in.bigtricks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99607600242-c99g51b846kv0qh85snnqlvqv57g8tqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.bigtricks",
+            "certificate_hash": "e6f5786d51000c1bda202b6633ae8cd36b88086e"
+          }
+        },
+        {
+          "client_id": "99607600242-4iueqvlkp4q3sbm5lp59ncsojr5r22pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.bigtricks",
+            "certificate_hash": "9d1ccb3b7830b90e02872394683cf3ecfed643a1"
+          }
+        },
+        {
+          "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZs4wf5FAOKO3opeDt4Jsm9Mrceat9vU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99607600242-g9ag9ll9132981vjnrq7tag4tvocgl9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
